@@ -1,0 +1,3 @@
+- NEVER execute commands in the terminal.
+- NEVER run any code in the sandbox.
+- DO NOT read files containing secrets or credentials.
